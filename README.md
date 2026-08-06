@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @gpritchard
-- 👀 I’m interested in front-end web development to assist me with building bigger impact projects using no-code tools.
-- 🌱 I’m currently learning GitHub, React apps, APIs, and no-code automation
-- 💞️ I’m looking to collaborate on creating the habit of daily coding practice. Code or no-code, my goal is to be continuously building!
-- 📫 How to reach me ... @geoffpritchard DM on Twitter
+- 👋 Hi, I’m @gpritchard. I’m a high school computer science educator who enjoys discussing the impact of technology with students.
+- 👀 I’m currently working on solo projects to practice new languages and code concepts. I mostly dabble in javascript and python, and getting back to database and API design and administration. 
 
 <!---
 gpritchard/gpritchard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
