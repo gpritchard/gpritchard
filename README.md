@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gpritchard. I’m a high school computer science educator who enjoys discussing the impact of technology with students.
+- 👋 Hi, I’m a high school computer science educator who enjoys discussing the impact of technology with students.
 - 👀 I’m currently working on solo projects to practice new languages and code concepts. I mostly dabble in javascript and python, and getting back to database and API design and administration. 
 
 <!---
